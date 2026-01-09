@@ -1,0 +1,47 @@
+Right Side of Board:
+
+A- GND
+B- 9 Ball - D4
+C- 3.3V
+
+E- GND
+F- 50 Pts - D23
+G- 40 Pts - D22
+H- 30 Pts - D21
+I- 20 Pts - D19
+J- 10 Pts - D18
+
+M- Start - D5
+N- Reset - D17
+O- Set - D16
+P- GND
+Q- GND
+
+T- 0 Trigger - D15
+U- GND
+
+W- GND
+X- Clock - D2
+Y- 3.3V
+
+----------------------------------------------
+Left Side of Board:
+
+C- 5V
+D- 5V
+E- Top Matrix - D27
+F- GND
+G- GND
+
+I- 5V
+J- 5V
+K- Bottom Matrix - D14
+L- GND
+M- GND
+
+Q- 5V
+R- 5V
+S- 5V
+T- GND
+U- GND
+V- GND
